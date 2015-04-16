@@ -64,7 +64,6 @@ class KnightPathFinder
 	end
 =end
 
-
 	def full_path(end_position)
 		node = @moves_tree.bfs(end_position)
 		path = []
