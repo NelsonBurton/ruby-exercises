@@ -77,6 +77,7 @@ class KnightPathFinder
 		end
 		path
 	end
+
 end
 
 
